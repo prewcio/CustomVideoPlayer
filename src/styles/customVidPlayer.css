@@ -1,0 +1,57 @@
+.custom-vid-player {
+    position: relative;
+    font-family: sans-serif;
+  }
+  
+  .progress-bar-container {
+    position: relative;
+    height: 8px;
+    cursor: pointer;
+  }
+  
+  .progress-bar {
+    height: 100%;
+  }
+  
+  .progress-section {
+    position: absolute;
+    top: 0;
+    height: 100%;
+  }
+  
+  .section-label {
+    position: absolute;
+    top: -20px;
+  }
+  
+  .hover-preview {
+    position: absolute;
+    top: -50px;
+    text-align: center;
+  }
+  
+  .hover-thumbnail {
+    width: 60px;
+    height: 40px;
+  }
+  
+  .toolbar-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+  }
+  
+  .toolbar-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .settings-menu {
+    position: absolute;
+    top: 50px;
+    background: white;
+    padding: 10px;
+  }
+  
