@@ -1,5 +1,5 @@
 {
-  "name": "customvideoplayer",
+  "name": "cvp-prewcioo",
   "version": "0.0.1",
   "description": "A custom HTML5 video player with advanced features like progress sections, custom controls, thumbnails, and keybindings.",
   "main": "src/index.js",
